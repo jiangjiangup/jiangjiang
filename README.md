@@ -9,6 +9,9 @@
 - [x] 创建 GitHub 仓库
 - [x] 创建第一个 README
 - [ ] 学习 Commit
-- [ ] 创建新分支
+- [x] 创建新分支
 - [ ] 提交 Pull Request
 - [ ] 发布 GitHub Pages 网站
+## 分支练习
+
+我正在 `update-readme` 分支中修改这个文件。
