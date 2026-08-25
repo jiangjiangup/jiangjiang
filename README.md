@@ -1,17 +1,41 @@
-# jiangjiang
+# jiangjiang 的个人主页
 
-你好，我是 **jiangjiangup** 👋
+这是我的 GitHub 学习项目，用来练习 GitHub 的基本操作和发布个人网页。
 
-这是我的第一个 GitHub 仓库，也是我学习和实践 GitHub 的起点。
+## 在线访问
 
-## 学习目标
+[打开个人主页](https://jiangjiangup.github.io/jiangjiang/)
 
-- [x] 创建 GitHub 仓库
-- [x] 创建第一个 README
-- [ ] 学习 Commit
-- [x] 创建新分支
-- [ ] 提交 Pull Request
-- [ ] 发布 GitHub Pages 网站
-## 分支练习
+## 主要功能
 
-我正在 `update-readme` 分支中修改这个文件。
+- 展示个人介绍
+- 提供 GitHub 仓库链接
+- 支持电脑和手机浏览
+- 通过 GitHub Pages 发布网站
+
+## 项目文件
+
+- `index.html`：个人主页文件
+- `README.md`：项目说明文件
+
+## 当前版本
+
+`v1.0.0`
+
+查看 [Releases（版本发布）](https://github.com/jiangjiangup/jiangjiang/releases)。
+
+## 学习内容
+
+本项目用于练习：
+
+- Issue（任务）
+- Branch（分支）
+- Commit（提交）
+- Pull Request（合并请求）
+- Merge（合并）
+- Release（版本发布）
+- Revert（撤销）
+
+## 作者
+
+[jia​​ngjiangup](https://github.com/jiangjiangup)
