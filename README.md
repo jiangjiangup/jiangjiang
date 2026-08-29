@@ -39,3 +39,4 @@
 ## 作者
 
 [jia​​ngjiangup](https://github.com/jiangjiangup)
+本项目也使用 GitHub Desktop 进行本地管理。
